@@ -34,6 +34,17 @@ p{
   font-size:16px;
   color:#000;
 }
+.red{
+  font-size:16px;
+  color:#c53d43;
+}
+table{
+  margin-top:40px;
+  margin-left:80px;
+}
+tr,td,th{
+  border:solid 1px #000b00;
+}
 
 
 
