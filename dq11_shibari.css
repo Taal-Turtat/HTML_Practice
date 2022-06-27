@@ -6,9 +6,9 @@ h1{
   margin:20px 20px 40px 20px;
   padding:10px 0px 10px 0px;
   background-color:#5a79ba;
-  border:double 1px #fef4f4;
-  border-left:inset 2px #e6cde3;
-  border-right:inset 2px #e6cde3;
+  border:double 2px #fef4f4;
+  border-left:inset 4px #e6cde3;
+  border-right:inset 4px #e6cde3;
   width:1200px;
   font-size:22px;
 }
@@ -21,9 +21,10 @@ h1{
   font-size:22px;
 }
 ul{
+  margin-top:40px;
   margin-left:40px;
-  height:300px;
-  width:500px;
+  height:100px;
+  width:200px;
   background-color:#727171;
   border:dashed 2px #250d00;
 }
