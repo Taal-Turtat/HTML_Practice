@@ -6,9 +6,9 @@ h1{
   margin:20px 20px 40px 20px;
   padding:10px 0px 10px 0px;
   background-color:#5a79ba;
-  border:double 2px #fef4f4;
-  border-left:inset 4px #e6cde3;
-  border-right:inset 4px #e6cde3;
+  border:double 5px #fef4f4;
+  border-left:inset 6px #e6cde3;
+  border-right:inset 6px #e6cde3;
   width:1200px;
   font-size:22px;
 }
