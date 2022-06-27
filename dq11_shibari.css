@@ -2,3 +2,36 @@
   margin: 0;
   padding:0;
 }
+h1{
+  margin:20px 20px 40px 20px;
+  padding:10px 0px 10px 0px;
+  background-color:#5a79ba;
+  border:double 1px #fef4f4;
+  border-left:inset 2px #e6cde3;
+  border-right:inset 2px #e6cde3;
+  width:1200px;
+  font-size:22px;
+}
+.subti{
+  margin:40px 0px 40px 20px;
+  border:dotted 1px #89c3eb;
+  color:#555;
+  background-color:#fff1cf;
+  width:1200px;
+  font-size:22px;
+}
+ul{
+  margin-left:40px;
+  height:300px;
+  width:500px;
+  background-color:#727171;
+  border:dashed 2px #250d00;
+}
+p{
+  margin:5px 0px 5px 0px;
+  font-size:16px;
+  color:#000;
+}
+
+
+
