@@ -14,22 +14,23 @@ h1{
 }
 .subti{
   margin:40px 0px 40px 20px;
-  border-bottom:dotted 1px #89c3eb;
+  border-bottom:dotted 3px #89c3eb;
   color:#555;
   background-color:#fff1cf;
   width:1200px;
   font-size:22px;
 }
 ul{
-  margin-top:40px;
+  padding:40px 0px 0px 30px;
   margin-left:40px;
   height:100px;
   width:200px;
-  background-color:#727171;
+  color:#033;
+  background-color:#afafb0;
   border:dashed 2px #250d00;
 }
 p{
-  margin:5px 0px 5px 0px;
+  margin:5px 0px 5px 40px;
   font-size:16px;
   color:#000;
 }
