@@ -12,6 +12,12 @@ h1{
   width:1200px;
   font-size:22px;
 }
+h3{
+  float:center;
+  width:1600px;
+  background-color:#890016;
+  color:#ddd;
+}
 .subti{
   margin:40px 0px 40px 20px;
   border-bottom:dotted 3px #89c3eb;
